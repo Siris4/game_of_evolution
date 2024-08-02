@@ -4,7 +4,7 @@ from bacteria import *
 # from bacteria_2 import * 
 import pygame.time
 from random import randint
-
+import logging
 
 
 
